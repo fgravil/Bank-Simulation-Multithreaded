@@ -69,7 +69,7 @@ public class SynchronizedBuffer implements AmountBuffer {
     }
     public void displayWithdraw( boolean canWithdraw, String operation )
     {
-        if(canWithdraw == false){
+        if(!canWithdraw){
 
             System.out.printf( "%-40s%s\t\t\t%s\n", "", operation,
                     "Withdrawal - Blocked - Insufficient Funds");
