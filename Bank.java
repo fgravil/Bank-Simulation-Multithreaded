@@ -4,7 +4,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /* Name: Fred Gravil
-   Course: CNT 4714 Spring 2016 
+   Course: CNT 4714 Spring 2016
    Assignment title: Project 2 – Synchronized, Cooperating Threads Under Locking
    Due Date: February 14, 2016
 */
